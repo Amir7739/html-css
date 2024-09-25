@@ -1,0 +1,33 @@
+ h1 {
+
+    color: rgba(236, 24, 24, 0.932);
+    text-align: center;
+    margin-top: 10px;
+    font-style: inherit;
+    font-size: 20px; 
+} 
+h2 {
+    color:rgba(116, 24, 236, 0.932)
+    
+}
+
+p {
+    font-size: 106px;
+    line-height: 1.5;
+    margin-bottom: 100px;
+    text-align: justify;
+    color: rgb(8, 184, 60);
+}
+
+.amjad{
+    width: 100px;
+    height: 100px;
+}
+ .amir{
+    width: 1600px;
+    height: 1500px;
+}
+.ayush{
+    width: 1600px;
+    height: 1600px;
+}
